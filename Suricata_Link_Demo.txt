@@ -1,0 +1,2 @@
+Suricata detect Eternal Blue ms17-010: https://youtu.be/nltAf8_H52U
+Suricata on Ubuntu detect Eternal Blue ms17-010: https://youtu.be/_TXO10xGjck
